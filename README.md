@@ -1,4 +1,5 @@
-### Hi i'm Janeslan Rodrigues. Aka Jan S. 👋
+### Hi!
+## I'm Janeslan Rodrigues. Aka Jan S. 👋
 
 
 ## ⚡ Technologies
