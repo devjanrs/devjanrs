@@ -1,6 +1,15 @@
-### Hi!
-## I'm Janeslan Rodrigues. Aka Jan S. 👋
+### Hi, i'm Janeslan Rodrigues. Aka Jan S. 👋
+About me:
 
+💻 I'm developer;
+
+🤓 I'm enthusiastic about everything about technologies
+
+🌱 I’m currently learning Vue and Javascript
+
+📫 How to reach me: devjan.rs@hotmail.com
+
+👽 Fun facts: I'm a musician, gamer and digital content producer. You can follow me on instagram and tiktok
 
 ## ⚡ Technologies
 
