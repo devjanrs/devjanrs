@@ -25,6 +25,6 @@ These are some of the technologies and tools that I work with:
 
 ##
 
-  <a href="https://www.instagram.com/eujanrs" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/janeslan-rodrigues-89480630b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="devjan.rs@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/eujanrs" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/janeslan-rodrigues-89480630b/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+  <a href="devjan.rs@hotmail.com" target="blank"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="blank"></a>
