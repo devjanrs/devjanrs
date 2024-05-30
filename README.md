@@ -1,4 +1,4 @@
-### Hi, i'm Janeslan Rodrigues. Aka Jan S. 👋
+### Hi, i'm Jan 👋
 About me:
 
 💻 I'm developer;
