@@ -9,7 +9,7 @@ About me:
 
 📫 How to reach me: devjan.rs@hotmail.com
 
-👽 Fun facts: I'm a gamer and digital content producer. You can follow me on  <a href="https://www.instagram.com/eujanrs" target="_blank">instagram</a> .
+👽 Fun facts: I'm a gamer and digital content producer.
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
