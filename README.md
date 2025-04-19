@@ -7,7 +7,7 @@ About me:
 
 🌱 I’m currently learning Vue and Javascript
 
-📫 How to reach me: devjan.rs@hotmail.com
+📫 How to reach me: devjann.rs@gmail.com
 
 ## ⚡ Technologies
 
